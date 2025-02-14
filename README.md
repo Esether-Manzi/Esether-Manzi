@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Esether-Manzi
-- 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning html, css, javascrip and php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Kobumanzi Esether  
 
-<!---
-Esether-Manzi/Esether-Manzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 About Me  
+I am a passionate junior software developer eager to build impactful projects. I enjoy learning new technologies and working on real-world applications.  
+
+🔹 **Quick Learner** | 🔹 **Team Player** | 🔹 **Problem Solver**  
+
+## 🚀 Skills  
+- PHP | Python (Basics)  
+- HTML & CSS  
+- MySQL  
+- Canva  
+
+## 🏆 Projects  
+### 🔹 [Banking System](https://github.com/Esether-Manzi/banking-system)  
+A simple banking system built with PHP, MySQL, HTML, and CSS. Features include:  
+✔ Account Registration  
+✔ Deposits & Withdrawals  
+✔ Transaction Tracking  
+
+## 🎓 Education  
+🎓 **Bachelor of Science in Computer Science**  
+📍 Uganda Technology and Management University (Second Year)  
+
+## 📜 Certifications  
+✅ Data Visualization Certificate - Kaggle  
+✅ Introduction to Applied Data Science with Python - Simplilearn SkillUp  
+
+## 💼 Experience  
+🏢 **Intern - Uganda Allied Health Examinations Board (UAHEB)**  
+- Assisted in software installation and maintenance  
+- Engaged in hardware troubleshooting  
+- Worked on data management and minor web development tasks  
+
+## 📫 Let's Connect!  
+📧 Email: essiemanzi@gmail.com  
+📌 GitHub: [Esether-Manzi](https://github.com/Esether-Manzi)  
+
+---
+⭐ Feel free to check out my repositories and give suggestions!
